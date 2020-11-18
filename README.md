@@ -1,6 +1,6 @@
 ## ODE Gan - Pytorch
 
-Implementation of ODE Gan in Pytorch
+Implementation of ODE Gan in Pytorch. Based off of @nshepperd's <a href="https://github.com/nshepperd/ode-gan-tf">Tensorflow repository</a>
 
 ## Citations
 

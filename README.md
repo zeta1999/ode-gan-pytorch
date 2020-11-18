@@ -1,4 +1,4 @@
-## ODE Gan - Pytorch
+## ODE Gan - Pytorch (wip)
 
 Implementation of ODE Gan in Pytorch. Based off of @nshepperd's <a href="https://github.com/nshepperd/ode-gan-tf">Tensorflow repository</a>
 
